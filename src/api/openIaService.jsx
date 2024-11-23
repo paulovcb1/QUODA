@@ -2,8 +2,7 @@ import { OpenAI } from "openai";
 
 // Configuração do OpenAI com a sua chave de API
 const openai = new OpenAI({
-   apiKey:  
-    "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",
+  //  apiKey: ,   INSIRA SUA API KEY AQUI...  
   dangerouslyAllowBrowser: true, 
 });
 

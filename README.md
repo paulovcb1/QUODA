@@ -12,8 +12,7 @@ Este projeto é um aplicativo de educação financeira voltado para ensinar os u
 - **Interface Amigável**: Um layout intuitivo e responsivo que permite interações rápidas e fluidas.
 
 ## **Como Rodar o Projeto**
-
-**ATENCAO PARA O PROJETO FUNCIONAR VOCE TERA QUE TER A KEY DA OPENIA
+## ATENCAO PARA O PROJETO FUNCIONAR VOCE TERA QUE TER A KEY DA OPENIA
 
 1. **Clonar o Repositório**
    ```bash

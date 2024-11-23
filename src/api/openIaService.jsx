@@ -2,7 +2,6 @@ import { OpenAI } from "openai";
 
 // Configuração do OpenAI com a sua chave de API
 const openai = new OpenAI({
-  //  apiKey: ,   INSIRA SUA API KEY AQUI...  
   dangerouslyAllowBrowser: true, 
 });
 
